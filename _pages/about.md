@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate, <a href='https://www.utexas.edu/'>University of Texas at Austin</a>, Department of Chemistry
 

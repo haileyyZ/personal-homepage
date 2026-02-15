@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /projects/
 description: Research projects spanning single-molecule biophysics, fluorescence sensing, and organic catalysis.
 nav: true
