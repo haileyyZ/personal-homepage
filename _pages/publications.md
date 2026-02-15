@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Publications by Pangmiaomiao Zhang in reversed chronological order.
 nav: true
 nav_order: 2

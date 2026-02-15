@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Pangmiaomiao Zhang",
-    "label": "PhD Candidate in Chemistry",
-    "image": "",
+    "image": "p_zhang.jpg",
     "email": "miaomiao22@utexas.edu",
-    "phone": "(512) 777-8176",
+    "phone": "",
     "summary": "A Chemistry PhD candidate at the University of Texas at Austin specializing in single-molecule biophysics, high-speed atomic force microscopy (HS-AFM), and structural biology of SARS-CoV-2 proteins.",
     "location": {
       "address": "Robert A. Welch Hall, 105 E 24th St",
@@ -207,7 +206,6 @@
   "skills": [
     {
       "name": "Instrumentation",
-      "level": "Expert",
       "icon": "fa-solid fa-microscope",
       "keywords": [
         "HS-AFM",
@@ -223,7 +221,6 @@
     },
     {
       "name": "Experimental Techniques",
-      "level": "Expert",
       "icon": "fa-solid fa-flask",
       "keywords": [
         "Protein expression and purification",
@@ -235,7 +232,6 @@
     },
     {
       "name": "Software",
-      "level": "Proficient",
       "icon": "fa-solid fa-laptop-code",
       "keywords": [
         "Python",
@@ -257,40 +253,11 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Proficient",
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Single-Molecule Biophysics",
-      "icon": "fa-solid fa-atom",
-      "keywords": [
-        "High-speed AFM",
-        "Single-molecule dynamics",
-        "Protein structure and function"
-      ]
-    },
-    {
-      "name": "Structural Biology",
-      "icon": "fa-solid fa-dna",
-      "keywords": [
-        "Cryo-electron microscopy",
-        "Cryo-electron tomography",
-        "Transmission electron microscopy"
-      ]
-    },
-    {
-      "name": "Virology",
-      "icon": "fa-solid fa-virus",
-      "keywords": [
-        "SARS-CoV-2",
-        "Spike protein",
-        "Membrane protein",
-        "Neutralizing antibodies"
-      ]
-    }
-  ],
+  
   "references": [],
   "projects": []
 }
