@@ -1,8 +1,10 @@
 cv:
   name: Pangmiaomiao Zhang
-  label: PhD Candidate in Chemistry
-  email: miaomiao22@utexas.edu
+  # label: PhD Candidate in Chemistry
   location: Austin, TX
+  email: '<a href="mailto:miaomiao22@utexas.edu">miaomiao22@utexas.edu</a>'
+  website: https://haileyyz.github.io
+  
   image: ""
   summary: A Chemistry PhD candidate at the University of Texas at Austin specializing in single-molecule biophysics, high-speed atomic force microscopy (HS-AFM), and structural biology of SARS-CoV-2 proteins.
 
@@ -138,17 +140,14 @@ cv:
 
     Skills:
       - name: Instrumentation
-        level: Expert
         icon: fa-solid fa-microscope
         keywords: "HS-AFM, NMR, HPLC-MS, CD spectrometer, Fluorescence spectrometer, UV-vis spectrophotometer, Microplate reader, Nanodrop, TEM, Cryo-EM, Cryo-ET"
 
       - name: Experimental Techniques
-        level: Expert
         icon: fa-solid fa-flask
         keywords: "Protein expression and purification, Column chromatography, DNA/protein gel electrophoresis, Organic synthesis, Glove box operation"
 
       - name: Software
-        level: Proficient
         icon: fa-solid fa-laptop-code
         keywords: "Python, ChimeraX, ImageJ, Adobe Illustrator, IgorPro, Origin, Chemdraw, MestReNova, Matlab"
 
@@ -157,17 +156,5 @@ cv:
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "Proficient"
 
-    Interests:
-      - name: Single-Molecule Biophysics
-        icon: fa-solid fa-atom
-        keywords: "High-speed AFM, Single-molecule dynamics, Protein structure and function"
-
-      - name: Structural Biology
-        icon: fa-solid fa-dna
-        keywords: "Cryo-electron microscopy, Cryo-electron tomography, Transmission electron microscopy"
-
-      - name: Virology
-        icon: fa-solid fa-virus
-        keywords: "SARS-CoV-2, Spike protein, Membrane protein, Neutralizing antibodies"
