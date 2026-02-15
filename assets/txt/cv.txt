@@ -1,0 +1,93 @@
+Pangmiaomiao Zhang
+E-Mail
+Phone
+Address
+Date of Birth	miaomiao22@utexas.edu
++1 (512)777-8176	
+Robert A. Welch Hall, 105 E 24th St, Austin, TX 78712, USA
+2000-11
+LinkedIn	www.linkedin.com/in/pangmiaomiaozhang
+
+EDUCATION
+University of Texas at Austin	Aug 2022 - Present
+Department of Chemistry / PhD	GPA: 3.95/4.00
+Tsinghua University	Sep 2019 - Jun 2022
+Department of Chemistry / Master	GPA: 3.90/4.00 (top 3)
+Southern University of Science and Technology	Sep 2015 - Jun 2019
+Department of Chemistry / Bachelor
+	GPA: 3.85/4.00 (top 5%)
+RESEARCH EXPERIENCE	
+Department of Chemistry, UT Austin	Advisor: Prof. Yi-Chih Lin
+Real-time Structural and Functional Studies of SARS-CoV-2 Spike Proteins and Interactions with Related Biomolecules (In progress)	Feb 2023 - Present
+	Visualized single spike protein, ACE2 and neutralizing antibody (NTD binder) using high speed atomic force microscopy (HS-AFM) and compared with simulated AFM images
+	Analyzed single molecule dynamics of neutralizing antibody
+	Investigated interactions between spike protein and neutralizing antibody
+	This research is supported by a NIH Maximizing Investigators' Research Award ($1.95M)
+Real-time Visualization of G2L4 Reverse Transcriptase in DNA Repair by Microhomology-Mediated End Joining (Manuscript in preparation)	Nov 2023 - Present
+	Investigated single-molecule structure and dynamics of G2L4 and DNA substrates (MMEJ) using HS-AFM
+	Visualized binding modes of G2L4 and MMEJ substrates using HS-AFM
+	Uncovered diverse DNA repair products and potential repair mechanism
+	Studied DNA ligation of DNA products using T4 ligase
+Structural and Functional Investigation of SARS-CoV-2 Membrane Proteins (In progress)	Dec 2024 - Present
+	Prepared and characterized membrane protein in E.coli system
+	Reconstituted membrane proteins in lipid and visualized the formation of membrane protein lattice using HS-AFM and TEM
+	Visualized membrane protein proteoliposomes using cryo-electron tomography (cryo-ET) (collaborating with Dr. Zunlong Ke lab) 
+Department of Chemistry, Tsinghua University	Advisor: Prof. Chunyan Tan
+Analyzing Amyloid Beta 42 Aggregates with a Fluorescence Sensor Array (Published, first author)	Jan 2021 - Apr 2022
+	Prepared different aggregation states of amyloid beta peptide, and characterized them using transmission electron microscopy (TEM) and CD spectrometer
+	Discriminated different aggregation states using fluorescence sensor array containing conjugated polyelectrolytes and small molecules, and analyzed by PCA and LDA algorism written by Matlab
+	Prepared of on-pathway and off-pathway aggregates by adding various stimuli, and discriminated them using the constructed fluorescence sensor array
+	Explored aggregation kinetics using the constructed fluorescence sensor array
+Detection of Histone Acetylation Related Enzymes Using Conjugated Polyelectrolytes	Nov 2019 - Jan 2021  
+	Synthesized conjugated polymer PPE-IDA through Sonogashira coupling and characterized the spectroscopic properties
+	Designed some polylysine peptide substrates of acetylation-related enzymes (p300 and SIRT1), and explored their interaction with several conjugated polyelectrolytes
+	Explored the optimal catalytic condition of enzymes
+	Utilized peptide-polymer probes to detect p300 and SIRT1
+Fluorescence Sensor Array for Discrimination of Urine Proteins and Diﬀerentiation Diagnosis of Urinary System Diseases (Published, third author)	Nov 2018 - May 2019
+	Constructed three-unit fluorescence sensor array and realized discrimination of six common urine proteins, their different concentrations and their complex mixtures
+	Processed real urine samples with centrifugation, filtration and dialysis
+	Distinguished protein profiles of urine samples from healthy people and patients with different urine diseases, such as tubular injury, diabetic nephropathy and nephropathy
+
+Department of Chemistry, Southern University of Science and Technology	Advisor: Associate Prof. Pengfei Li
+Phosphine-Catalyzed Enantioselective [1+4] Annulation of Morita-Baylis-Hillman Carbonates with α,β-Unsaturated Imines (Published, co-first author)	Mar 2018 - Sep 2018
+	Established an organic methodology using phosphine catalyst for [4+1] cycloaddition of unsaturated imine and MBH ester with a wide range of substituent groups to obtain chiral 2-pyrrolines with high yields and good enantioselectivities
+	Familiar to use glove box for synthesis, column chromatography for purifying chemicals, and HPLC/NMR to characterize reaction products
+A Catalyst-Free Cycloaddition Reaction: Access to Spiro[chroman-3,2’-indene-1’,3’-dione] Scaffolds (Published, third author)	
+Mar 2017 - Oct 2017
+•	Constructed a facile [3+2] cycloaddition reaction to obtain spiro[chroman-3,2’-indene-1’,3’-dione] which incorporated two biologically active scaffolds without need of catalysts and complex operation
+•	Products with high yields were obtained and characterized by NMR, HPLC and X-ray crystallography
+PUBLICATIONS, POSTERS&PATENTS	
+•	Zhang, P.;  Chou, C.-W.;  Finkelstein, I. J.; Lin, Y.-C., Real-Time Visualization of Intermolecular Interactions between SARS-CoV-2 Spike Protein and NTD-Binding Antibody Using High-Speed Atomic Force Microscopy. Biophys. J. 2024, 123 (3), 196a. (Poster)
+•	Zhang, P.; Tan, C., Cross-Reactive Fluorescent Sensor Array for Discrimination of Amyloid Beta Aggregates. Anal. Chem. 2022, 94, 5469-5473.
+•	Shen, Y.; Huang, Y.; Zhang, P.; Guo, B.; Jiang, H.; Tan, C.; Jiang, Y., Fluorescence Sensor Array for Discrimination of Urine Proteins and Differentiation Diagnosis of Urinary System Diseases. ACS Applied Bio Materials 2020, 3 (9), 5639-5643.
+•	Qian, C.*; Zhang, P.*; Li, W.; Li, P., Phosphine Catalyzed Enantioselective [1 + 4]‐Annulation of Morita‐Baylis‐Hillman Carbonates with α,β‐Unsaturated Imines. Asian Journal of Organic Chemistry 2019, 8, 242-245. (*Qian and Zhang contributed equally)
+•	Han, Y.; Zhu, Y.; Zhang, P.; Li, W.; Li, P., A Catalyst-Free Cycloaddition Reaction: Access to Spiro [chroman-3,2'-indene-1',3'-dione] Scaffolds. ChemistrySelect 2017, 2 (35), 11380-11383.
+•	Li, P.; Qian, C.; Zhang, P., Method for efficient synthesis of optically active 2-pyrroline compound with catalysis of asymmetric organic phosphine. China National Patent, CN 201811539457.4. (Patent)
+
+
+
+PROFESSIONAL EXPERIENCES
+Associate Consultant, Texas Venture Lab	Jan 2025 – May 2025
+•	Collaborated with cross-disciplinary teams at Texas Venture Lab to conduct market research, competitive analysis, and financial modeling to support investment decisions of Synvect, a biological start-up company which applies novel gene-editing method to control mosquito populations.
+Project Manager, SUSTech Volunteer Association	Sep 2016 – Jun 2017
+•	Led and organized community service activities (Blood Donation, Charity Flower Sale, Earth Hour, etc.); achieved a top-five ranking in internal evaluations, reflecting substantial contributions to the club and significant volunteer hours
+•	Contributed over 51 hours as a volunteer in various initiatives throughout Shenzhen, including significant involvement in the ‘Assisting Young Migratory Birds’ project, where I provided after-school tutoring to underprivileged children.
+
+SCHOLARSHIPS&AWARDS
+Outstanding M.Sc. Thesis Award, Tsinghua University	Jun 2022
+Outstanding Master Graduate of 2022, Tsinghua University	Jun 2022
+Integrated second-class scholarship, SIGS, Tsinghua University	Oct 2021
+Performance Team in 2020 SDG Open Hack @ Tsinghua University	Nov 2020
+Tsinghua-Shanghai HuaYi Scholarship, Tsinghua (top 5%)	Oct 2020
+Outstanding B.Sc. Thesis Award, SUSTech	Jun 2019
+Outstanding Graduate of 2019, SUSTech	May 2019
+Outstanding Volunteer of Zhixin College, SUSTech	2017
+Merit-Based Undergraduate Scholarship, SUSTech	2016, 2017, 2018
+Outstanding Freshmen Award, SUSTech	Sep 2015
+	
+SKILLS
+•	Operation: HS-AFM, NMR, HPLC-MS, CD spectrometer, fluorescence spectrometer, UV-vis spectrophotometer, microplate reader, Nanodrop, TEM, cryo-EM, etc.
+•	Experiments: Protein expression, column chromatography, glove box, protein and DNA gel electrophoresis, etc.
+•	Softwares: Python, ChimeraX, ImageJ, Adobe Illustrator, IgorPro, Origin, Chemdraw, MestReNova, Endnote, Zotelo, Matlab, Scifinder, Final Cut Pro, etc.
+
+

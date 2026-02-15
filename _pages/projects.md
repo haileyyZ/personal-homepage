@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research projects spanning single-molecule biophysics, fluorescence sensing, and organic catalysis.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [UT Austin, Tsinghua University, SUSTech]
 horizontal: false
 ---
 

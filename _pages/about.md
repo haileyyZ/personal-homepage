@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate, <a href='https://www.utexas.edu/'>University of Texas at Austin</a>, Department of Chemistry
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: p_zhang.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +20,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in the [Department of Chemistry](https://cm.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/), working under the supervision of [Prof. Yi-Chih Lin](https://sites.google.com/utexas.edu/yichihlin-lab/). My research focuses on **single-molecule biophysics**, where I use **high-speed atomic force microscopy (HS-AFM)** and **cryo-electron microscopy (cryo-EM/cryo-ET)** to investigate the structure and dynamics of biomolecules at the nanoscale.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research projects include real-time visualization of SARS-CoV-2 spike proteins and their interactions with neutralizing antibodies, structural studies of SARS-CoV-2 membrane proteins, and investigating DNA repair mechanisms through single-molecule imaging. This research is supported by an NIH Maximizing Investigators' Research Award.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to joining UT Austin, I obtained my Master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) (advised by [Prof. Chunyan Tan](https://www.sigs.tsinghua.edu.cn/tcy_en/main.htm)), where I developed fluorescence sensor arrays for discriminating amyloid beta aggregates. I received my Bachelor's degree from [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), where I worked on organic synthesis and catalysis with [Prof. Pengfei Li](https://faculty.sustech.edu.cn/?tagid=lipf&go=1&lang=en).
